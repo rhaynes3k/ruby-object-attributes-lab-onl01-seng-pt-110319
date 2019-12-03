@@ -3,4 +3,7 @@ class Person
     @n = n
   end
   
+  def name
+    @n
+  end
 end
