@@ -1,9 +1,9 @@
 class Person
   def name=(n)
-    @n = n
+    @name = n
   end
   
   def name
-    @n
+    @name
   end
 end
