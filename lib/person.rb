@@ -10,4 +10,8 @@ class Person
   def job=(gig)
     @job = gig
   end
+  
+  def job
+    @job
+  end
 end
